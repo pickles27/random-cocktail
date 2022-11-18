@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #230312;
+  padding: 40px;
+  color: white;
+}
+
+.content {
+  margin-top: 30px;
+  color: black;
+  background-color: white;
+  border-radius: 8px;
+  text-align: left;
+  padding: 30px;
+}
+
+.image {
+  max-width: 100%;
+  border-radius: 8px;
+}
